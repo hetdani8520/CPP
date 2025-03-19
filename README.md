@@ -1,2 +1,3 @@
 # CPP
 C++ Learnings
+## TODO: Bit manipulation gotchas, pointers etc...
