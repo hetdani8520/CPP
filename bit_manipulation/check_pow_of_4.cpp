@@ -14,7 +14,7 @@ int check_pow_of_four (int num){
 }
 
 int main(){
-    int num = 64;
+    int num = 3;
 
     if(check_pow_of_four(num)){
         cout << "num " << num << " is a multiple of 4" << endl;
